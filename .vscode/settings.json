@@ -1,0 +1,11 @@
+{
+    "cmake.sourceDirectory": "/home/arihantaish94/projects/cache_lab",
+    "cmake.buildDirectory": "/home/arihantaish94/projects/cache_lab/build",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "clangd.arguments": ["--compile-commands-dir=build-cmake", "--background-index"],
+    "terminal.integrated.env.linux": {
+    "CPP_HOME": "${workspaceFolder}",
+    "terminal.integrated.cwd": "${workspaceFolder}"
+}
+
+}

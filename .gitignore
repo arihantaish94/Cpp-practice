@@ -1,0 +1,8 @@
+# Build output
+build/
+build-*/
+a.out
+*.o
+
+# Editor and tool caches
+.cache/
